@@ -1,0 +1,2 @@
+(this.webpackJsonpiusedtoparty=this.webpackJsonpiusedtoparty||[]).push([[0],{12:function(t,e,n){},14:function(t,e,n){"use strict";n.r(e);var r=n(0),c=n(3),o=n.n(c),i=(n(12),n(4)),s=n(5),u=n(7),a=n(6),d=n(1),b=function(t){Object(u.a)(n,t);var e=Object(a.a)(n);function n(){return Object(i.a)(this,n),e.call(this)}return Object(s.a)(n,[{key:"render",value:function(){return Object(d.jsx)("h1",{children:"And I still do too"})}}]),n}(r.Component);o.a.render(Object(d.jsx)(b,{}),document.getElementById("root"))}},[[14,1,2]]]);
+//# sourceMappingURL=main.a7fa9bf3.chunk.js.map
