@@ -1,8 +1,8 @@
 {
+  "homepage": "http://iusedto.party",
   "name": "iusedtoparty",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://davidleach724.github.io/iusedtoparty",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
