@@ -1,4 +1,4 @@
-import reactDom, { Component } from 'react'
+import React, { Component } from 'react'
 
 class App extends Component {
   constructor() {
@@ -7,7 +7,7 @@ class App extends Component {
 
   render() {
     return (
-      <h1>And I still do too</h1>
+      <h1>And I still do, too</h1>
     )
   }
 }
