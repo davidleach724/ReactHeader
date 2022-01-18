@@ -1,15 +1,13 @@
-import React, { Component } from 'react'
+import './App.css'
+import birdie from './birdie.JPG';
 
-class App extends Component {
-  constructor() {
-    super()
-  }
+const App = () => {
 
-  render() {
     return (
-      <h1>And I still do, too</h1>
+      <main>
+        <img src={birdie} alt="Birdie Parties" className="birdie-pic" />
+      </main>
     )
-  }
 }
 
-export default App
+export default App;
